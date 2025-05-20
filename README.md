@@ -12,14 +12,18 @@ Employee Satisfaction & Performance
 -A multi-ring donut chart comparing the sum of:
 
 Job Satisfaction
--Performance Rating
--Training Times Last Year
+
+Performance Rating
+
+Training Times Last Year
 
 Income Distribution
--Bar chart showing the average monthly income across different job roles.
+
+Bar chart showing the average monthly income across different job roles.
 
 Experience vs. Salary Hike
--Line chart analyzing the total working years of employees by percent salary hike across various job roles.
+
+Line chart analyzing the total working years of employees by percent salary hike across various job roles.
 
 Workload Impact
 -Line chart showing total working years by percent salary hike and overtime status, offering insights into the effect of overtime on long-term employment.
