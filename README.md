@@ -2,6 +2,8 @@
 
 This Power BI dashboard provides insightful analysis into employee-related metrics, helping HR departments make data-driven decisions regarding workforce performance, satisfaction, and retention.
 
+![image](https://github.com/user-attachments/assets/9e78f550-9e33-4ff8-bb80-94fd91713eca)
+
 ---
 
 ## 🔍 Key Features
@@ -50,5 +52,5 @@ This dashboard enables HR teams to:
 
 
 
-![image](https://github.com/user-attachments/assets/9e78f550-9e33-4ff8-bb80-94fd91713eca)
+
 
